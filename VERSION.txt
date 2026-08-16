@@ -1,0 +1,4 @@
+LAVAKIDS V16 — consolidación funcional
+Se agrupan en un único panel operativo: agenda/calendario, reservas, clientes,
+pagos, juego libre, avisos, fidelización, ajustes y exportación.
+La maqueta visual aprobada se conserva.

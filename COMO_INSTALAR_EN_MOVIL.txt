@@ -1,0 +1,15 @@
+# LAVAKIDS — versión móvil instalable
+
+Esta versión conserva la maqueta aprobada y añade configuración PWA para instalarla en el móvil.
+
+## Android
+1. Abre `index.html` desde una dirección web segura (HTTPS).
+2. En Chrome, abre el menú.
+3. Pulsa «Instalar aplicación» o «Añadir a pantalla de inicio».
+
+## iPhone
+1. Abre la app desde Safari usando una dirección HTTPS.
+2. Pulsa Compartir.
+3. Elige «Añadir a pantalla de inicio».
+
+Importante: abrir el HTML directamente como archivo descargado (`file://`) puede impedir la instalación PWA. Para instalarla como app hace falta servir esta carpeta desde una web HTTPS.

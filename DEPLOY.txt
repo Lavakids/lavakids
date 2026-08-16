@@ -1,0 +1,13 @@
+LAVAKIDS — publicación móvil
+
+Sube TODO el contenido de esta carpeta a un alojamiento web estático con HTTPS.
+Después abre la dirección desde el móvil.
+
+Android:
+Chrome → menú → Instalar aplicación / Añadir a pantalla de inicio.
+
+iPhone:
+Safari → Compartir → Añadir a pantalla de inicio.
+
+No abras index.html como archivo local si quieres instalarla como PWA:
+la instalación necesita HTTPS.

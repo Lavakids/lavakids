@@ -1,0 +1,4 @@
+V10 — base móvil estable.
+Se conserva la maqueta aprobada.
+Siguiente fase: sustituir las zonas táctiles de referencia por controles reales,
+con formularios, edición y datos conectados, manteniendo el mismo diseño.
